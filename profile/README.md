@@ -4,11 +4,11 @@
 
 # Sentzunhat
 
-**Small tools. Thoughtfully made.**
+**Useful products. Clear foundations.**
 
-Welcome to Sentzunhat. We are an independent software company building focused tools that give people more control over their technology and data.
+Sentzunhat is an independent software company in Winnipeg, Manitoba. We build focused apps and open tools that give people more control over their data and technology.
 
-That work spans personal archives, developer tools, and human-directed AI workflows. Each project starts with a practical problem. We want the result to be understandable, useful, and something people can keep using on their own terms.
+Our work spans personal archives, developer tools, and human-directed AI workflows. We distinguish released products from prototypes and research.
 
 [Website](https://sentzunhat.com/) · [All projects](https://sentzunhat.com/#projects) · [Public code](https://github.com/orgs/sentzunhat/repositories?q=visibility%3Apublic)
 
